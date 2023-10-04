@@ -9,9 +9,5 @@ I hope to connect with other programmers who are passionate about creating innov
 Let's build something together! 🚀
 
 Contact me:
-
-Email: [your email address]
-LinkedIn: [your LinkedIn profile URL]
-Twitter: [your Twitter handle]
-GitHub: [your GitHub username]
+GitHub: Deadscreen
 P.S. I'm also a big fan of puns and memes. If you have any good ones, please share them with me!
